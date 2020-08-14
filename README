@@ -1,0 +1,5 @@
+This is a simple python project that visualizes some of the material that I learned in my Graph Theory
+class at UCSC. For functionallity it takes in a list of vertex degrees and tells the user whether that
+graph is representable. If it is, it produces an example of how the graph could look (isomorphic) in both
+an adjacency matrix as well as using matplotlib. Then it will tell the user the degree sum, number of edges
+and Eigen Vector Centrality values of the graph.  
