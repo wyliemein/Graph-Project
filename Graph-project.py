@@ -79,6 +79,7 @@ def get_input():
             return printMat(lst, len(lst))
         else:
             print("Graph is Not Representable!")
+            quit()
             return
     else:
         print("Must input vertex degrees, try again\n")
