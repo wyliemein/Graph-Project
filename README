@@ -10,4 +10,4 @@ git clone https://github.com/wyliemein/Graph-Project.git graphProject
 
 pip install -r requirements.txt
 
-python3 graphProject.py run
+python graphProject.py run
